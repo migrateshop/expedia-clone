@@ -24,6 +24,9 @@ The intuitive design and user-friendly interface of an Expedia clone ensure a sm
 
 * **Competitive Edge** 
 Offering a comprehensive range of travel services in one place, an Expedia clone positions your platform as a one-stop solution for travelers, giving you a competitive edge over other platforms that may offer limited services.
+
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“expediaclone.png" src="https://github.com/migrateshop/expedia-clone/blob/main/images/expedia-clone-script.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
+
 ## How Does Expedia Clone Works?
 An Expedia clone is a comprehensive online travel booking software solution that have exact the core functionalities of the original Expedia. It enables users to easily search for and book travel arrangements, including flights, hotels, car rentals, and vacation packages, all from a single interface. 
 
@@ -38,6 +41,8 @@ Additionally, the platform often includes features like customer support, user a
 * **Secure Payment System:** When making a reservation through an Expedia clone, you can relax knowing that your credit card information is protected.   
 * **Real-Time Updates:** Receive alerts and messages in real-time about any changes to your travel schedule.  
 * **Customizable criteria:** Adjust the search results to your own criteria, such as preferred airlines or financial restrictions.
+
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“expediaclone.png" src="https://github.com/migrateshop/expedia-clone/blob/main/images/expedia-clone-script.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
 
 ### Finally 
 In summary, the best option for booking travel in the modern day is an Expedia clone. Travelers may experience a hassle-free booking process from beginning to end because to its user-friendly design, large selection of options, low price, and round-the-clock customer care. Why then wait? To begin effortlessly organizing your ideal holiday, try [Migrateshop’s](https://migrateshop.com/) [Expedia clone](https://migrateshop.com/expedia-clone/) right now.
